@@ -1,4 +1,4 @@
-# Hi there, I'm Alisher 👋 
+# Hi there, I'm Alisher 👋
 
 ### Data Scientist | ML Engineer | Python Developer
 I specialize in building predictive models and automating data-driven decision-making. My philosophy: **Business goals first, code second.**
@@ -6,7 +6,14 @@ I specialize in building predictive models and automating data-driven decision-m
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io) ![Machine Learning](https://img.shields.io) ![Data Science](https://img.shields.io) ![SQL](https://img.shields.io) ![MongoDB](https://img.shields.io) ![Docker](https://img.shields.io) ![Instagram](https://img.shields.io) ![Telegram Bots](https://img.shields.io)
+[![Python](https://img.shields.io)](https://www.python.org)
+[![ML](https://img.shields.io)](https://scikit-learn.org)
+[![DS](https://img.shields.io)](https://pandas.pydata.org)
+[![SQL](https://img.shields.io)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io)](https://www.mongodb.com)
+[![Docker](https://img.shields.io)](https://www.docker.com)
+[![Instagram](https://img.shields.io)](https://www.instagram.com)
+[![Bots](https://img.shields.io)](https://t.me)
 
 ---
 
@@ -21,4 +28,3 @@ I specialize in building predictive models and automating data-driven decision-m
 [![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
 [![Instagram](https://img.shields.io)](https://www.instagram.com)
 [![Telegram](https://img.shields.io)](https://t.me)
-
