@@ -1,4 +1,4 @@
-# Hi there, I'm Alisher 👋 
+# Hi there, I'm Alisher 👋
 
 ### Data Scientist | ML Engineer | Python Developer
 I specialize in building predictive models and automating data-driven decision-making. My philosophy: **Business goals first, code second.**
@@ -6,9 +6,10 @@ I specialize in building predictive models and automating data-driven decision-m
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev" />
-</p>
+*   **Languages & ML:** 🐍 Python | 🧠 Machine Learning | 📊 Data Science
+*   **Databases:** 🗄️ SQL | 🍃 MongoDB
+*   **Infrastructure:** 🐳 Docker | 📓 Jupyter
+*   **Social & Automation:** 📸 Instagram | 🤖 Telegram Bots
 
 ---
 
@@ -18,17 +19,4 @@ I specialize in building predictive models and automating data-driven decision-m
 *   **Game Analytics:** Optimization of player retention and in-game economies.
 
 ---
-
-## 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io" />
-</a>
-<a href="https://www.instagram.com">
-  <img src="https://img.shields.io" />
-</a>
-<a href="https://t.me">
-  <img src="https://img.shields.io" />
-</a>
-</p>
 
