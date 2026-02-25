@@ -6,16 +6,7 @@ I specialize in building predictive models and automating data-driven decision-m
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+![Python](https://img.shields.io) ![Machine Learning](https://img.shields.io) ![Data Science](https://img.shields.io) ![SQL](https://img.shields.io) ![MongoDB](https://img.shields.io) ![Docker](https://img.shields.io) ![Instagram](https://img.shields.io) ![Bots](https://img.shields.io)
 
 ---
 
@@ -27,19 +18,7 @@ I specialize in building predictive models and automating data-driven decision-m
 ---
 
 ## 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com">
-  <img src="https://img.shields.io" />
-</a>
-<a href="https://www.instagram.com">
-  <img src="https://img.shields.io" />
-</a>
-<a href="https://t.me">
-  <img src="https://img.shields.io" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io)](https://www.instagram.com)
+[![Telegram](https://img.shields.io)](https://t.me)
 
-
-[<img src="https://img.shields.io" />](https://t.me/@aliw025)
-
--->
