@@ -6,7 +6,7 @@ I specialize in building predictive models and automating data-driven decision-m
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io) ![Machine Learning](https://img.shields.io) ![Data Science](https://img.shields.io) ![SQL](https://img.shields.io) ![MongoDB](https://img.shields.io) ![Docker](https://img.shields.io) ![Instagram](https://img.shields.io) ![Bots](https://img.shields.io)
+![Python](https://img.shields.io) ![Machine Learning](https://img.shields.io) ![Data Science](https://img.shields.io) ![SQL](https://img.shields.io) ![MongoDB](https://img.shields.io) ![Docker](https://img.shields.io) ![Instagram](https://img.shields.io) ![Telegram Bots](https://img.shields.io)
 
 ---
 
